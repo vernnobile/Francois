@@ -3,7 +3,61 @@
   <advance width="1158"/>
   <unicode hex="0156"/>
   <outline>
-    <component base="R"/>
-    <component base="commaaccent" xOffset="376" yOffset="-764"/>
+    <contour>
+      <point x="441" y="12" type="line"/>
+      <point x="441" y="673" type="line"/>
+      <point x="558" y="673" type="line"/>
+      <point x="832" y="-27" type="line"/>
+      <point x="1127" y="53" type="line"/>
+      <point x="988" y="384" type="line" smooth="yes"/>
+      <point x="919" y="549"/>
+      <point x="850" y="717"/>
+      <point x="850" y="719" type="curve"/>
+      <point x="981" y="794"/>
+      <point x="1070" y="907"/>
+      <point x="1070" y="1108" type="curve" smooth="yes"/>
+      <point x="1070" y="1408"/>
+      <point x="843" y="1536"/>
+      <point x="506" y="1536" type="curve" smooth="yes"/>
+      <point x="142" y="1524" type="line"/>
+      <point x="142" y="-12" type="line"/>
+    </contour>
+    <contour>
+      <point x="441" y="1296" type="line"/>
+      <point x="581" y="1296" type="line" smooth="yes"/>
+      <point x="688" y="1296"/>
+      <point x="770" y="1249"/>
+      <point x="770" y="1105" type="curve" smooth="yes"/>
+      <point x="770" y="925"/>
+      <point x="663" y="895"/>
+      <point x="543" y="895" type="curve" smooth="yes"/>
+      <point x="441" y="895" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="-92" type="line"/>
+      <point x="478" y="-380" type="line"/>
+      <point x="622" y="-380" type="line"/>
+      <point x="621" y="-398"/>
+      <point x="617" y="-414"/>
+      <point x="610" y="-428" type="curve" smooth="yes"/>
+      <point x="598" y="-452"/>
+      <point x="574" y="-476"/>
+      <point x="526" y="-476" type="curve"/>
+      <point x="526" y="-668" type="line"/>
+      <point x="571" y="-665"/>
+      <point x="611" y="-653"/>
+      <point x="646" y="-632" type="curve" smooth="yes"/>
+      <point x="706" y="-597"/>
+      <point x="766" y="-524"/>
+      <point x="766" y="-380" type="curve" smooth="yes"/>
+      <point x="766" y="-92" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

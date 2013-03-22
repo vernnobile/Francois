@@ -3,7 +3,35 @@
   <advance width="988"/>
   <unicode hex="00CA"/>
   <outline>
-    <component base="E"/>
-    <component base="circumflex" xOffset="161" yOffset="384"/>
+    <contour>
+      <point x="142" y="0" type="line"/>
+      <point x="914" y="0" type="line"/>
+      <point x="938" y="240" type="line"/>
+      <point x="442" y="240" type="line"/>
+      <point x="442" y="672" type="line"/>
+      <point x="764" y="672" type="line"/>
+      <point x="765" y="930" type="line"/>
+      <point x="442" y="930" type="line"/>
+      <point x="442" y="1296" type="line"/>
+      <point x="898" y="1296" type="line"/>
+      <point x="922" y="1536" type="line"/>
+      <point x="142" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="403" y="1632" type="line"/>
+      <point x="519" y="1922" type="line"/>
+      <point x="615" y="1632" type="line"/>
+      <point x="865" y="1632" type="line"/>
+      <point x="635" y="2112" type="line"/>
+      <point x="433" y="2112" type="line"/>
+      <point x="193" y="1632" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

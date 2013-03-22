@@ -14,20 +14,27 @@
 	<string>Francois</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
-	<key>macintoshFONDFamilyID</key>
-	<integer>128</integer>
-	<key>macintoshFONDName</key>
-	<string>Francois</string>
+	<key>openTypeHeadCreated</key>
+	<string>2011/02/04 10:02:00</string>
+	<key>openTypeHeadFlags</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+	</array>
 	<key>openTypeHeadLowestRecPPEM</key>
-	<integer>9</integer>
+	<integer>3</integer>
 	<key>openTypeHheaAscender</key>
 	<integer>2177</integer>
+	<key>openTypeHheaCaretOffset</key>
+	<integer>0</integer>
+	<key>openTypeHheaCaretSlopeRise</key>
+	<integer>1</integer>
+	<key>openTypeHheaCaretSlopeRun</key>
+	<integer>0</integer>
 	<key>openTypeHheaDescender</key>
 	<integer>-669</integer>
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
-	<key>openTypeNameCompatibleFullName</key>
-	<string>Francois</string>
 	<key>openTypeNameDescription</key>
 	<string>Copyright (c) 2011 by vernon adams. All rights reserved.</string>
 	<key>openTypeNameDesigner</key>
@@ -36,6 +43,10 @@
 	<string>www.newtypography.co.uk</string>
 	<key>openTypeNameManufacturer</key>
 	<string>vernon adams</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Francois</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
 	<key>openTypeNameUniqueID</key>
 	<string>vernonadams: Francois: 2011</string>
 	<key>openTypeNameVersion</key>
@@ -46,17 +57,7 @@
 		<integer>1</integer>
 		<integer>4</integer>
 		<integer>7</integer>
-		<integer>8</integer>
-		<integer>29</integer>
-		<integer>56</integer>
-		<integer>58</integer>
-		<integer>59</integer>
-		<integer>62</integer>
-	</array>
-	<key>openTypeOS2FamilyClass</key>
-	<array>
-		<integer>0</integer>
-		<integer>0</integer>
+		<integer>32</integer>
 	</array>
 	<key>openTypeOS2Panose</key>
 	<array>
@@ -71,26 +72,29 @@
 		<integer>0</integer>
 		<integer>4</integer>
 	</array>
+	<key>openTypeOS2Selection</key>
+	<array>
+	</array>
 	<key>openTypeOS2StrikeoutPosition</key>
-	<integer>512</integer>
+	<integer>691</integer>
 	<key>openTypeOS2StrikeoutSize</key>
 	<integer>102</integer>
 	<key>openTypeOS2SubscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SubscriptXSize</key>
-	<integer>1434</integer>
-	<key>openTypeOS2SubscriptYOffset</key>
-	<integer>287</integer>
-	<key>openTypeOS2SubscriptYSize</key>
 	<integer>1331</integer>
+	<key>openTypeOS2SubscriptYOffset</key>
+	<integer>153</integer>
+	<key>openTypeOS2SubscriptYSize</key>
+	<integer>1228</integer>
 	<key>openTypeOS2SuperscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptXSize</key>
-	<integer>1434</integer>
-	<key>openTypeOS2SuperscriptYOffset</key>
-	<integer>977</integer>
-	<key>openTypeOS2SuperscriptYSize</key>
 	<integer>1331</integer>
+	<key>openTypeOS2SuperscriptYOffset</key>
+	<integer>716</integer>
+	<key>openTypeOS2SuperscriptYSize</key>
+	<integer>1228</integer>
 	<key>openTypeOS2Type</key>
 	<array>
 	</array>
@@ -106,44 +110,28 @@
 		<integer>1</integer>
 		<integer>2</integer>
 		<integer>3</integer>
-		<integer>4</integer>
-		<integer>5</integer>
-		<integer>6</integer>
-		<integer>7</integer>
-		<integer>29</integer>
-		<integer>31</integer>
-		<integer>32</integer>
-		<integer>33</integer>
-		<integer>35</integer>
-		<integer>38</integer>
-		<integer>45</integer>
-		<integer>59</integer>
-		<integer>60</integer>
-		<integer>61</integer>
-		<integer>62</integer>
-		<integer>85</integer>
-		<integer>90</integer>
-		<integer>92</integer>
 	</array>
 	<key>openTypeOS2VendorID</key>
 	<string>newt</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
 	<key>openTypeOS2WinAscent</key>
 	<integer>2177</integer>
 	<key>openTypeOS2WinDescent</key>
-	<integer>-669</integer>
-	<key>postscriptBlueFuzz</key>
-	<integer>1</integer>
-	<key>postscriptBlueScale</key>
-	<real>0.039625</real>
-	<key>postscriptBlueShift</key>
-	<integer>7</integer>
+	<integer>669</integer>
 	<key>postscriptBlueValues</key>
 	<array>
+		<integer>-32</integer>
+		<integer>0</integer>
+		<integer>1152</integer>
+		<integer>1167</integer>
+		<integer>1536</integer>
+		<integer>1568</integer>
 	</array>
 	<key>postscriptDefaultWidthX</key>
-	<integer>500</integer>
+	<integer>536</integer>
 	<key>postscriptFamilyBlues</key>
 	<array>
 	</array>
@@ -160,9 +148,9 @@
 	<false/>
 	<key>postscriptOtherBlues</key>
 	<array>
+		<integer>-358</integer>
+		<integer>-358</integer>
 	</array>
-	<key>postscriptSlantAngle</key>
-	<real>0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
 	</array>
@@ -170,15 +158,11 @@
 	<array>
 	</array>
 	<key>postscriptUnderlinePosition</key>
-	<integer>-205</integer>
+	<integer>-154</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>102</integer>
-	<key>postscriptUniqueID</key>
-	<integer>-1</integer>
 	<key>postscriptWeightName</key>
 	<string>Normal</string>
-	<key>postscriptWindowsCharacterSet</key>
-	<integer>1</integer>
 	<key>styleMapFamilyName</key>
 	<string>Francois</string>
 	<key>styleMapStyleName</key>
@@ -195,7 +179,5 @@
 	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>1152</integer>
-	<key>year</key>
-	<integer>2011</integer>
 </dict>
 </plist>

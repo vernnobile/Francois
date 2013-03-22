@@ -3,7 +3,45 @@
   <advance width="1149"/>
   <unicode hex="0136"/>
   <outline>
-    <component base="K"/>
-    <component base="commaaccent" xOffset="378" yOffset="-764"/>
+    <contour>
+      <point x="826" y="-27" type="line"/>
+      <point x="1131" y="43" type="line"/>
+      <point x="797" y="902" type="line"/>
+      <point x="1126" y="1536" type="line"/>
+      <point x="806" y="1536" type="line"/>
+      <point x="442" y="864" type="line"/>
+      <point x="442" y="1536" type="line"/>
+      <point x="142" y="1512" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="442" y="401" type="line"/>
+      <point x="590" y="666" type="line"/>
+    </contour>
+    <contour>
+      <point x="480" y="-92" type="line"/>
+      <point x="480" y="-380" type="line"/>
+      <point x="624" y="-380" type="line"/>
+      <point x="623" y="-398"/>
+      <point x="619" y="-414"/>
+      <point x="612" y="-428" type="curve" smooth="yes"/>
+      <point x="600" y="-452"/>
+      <point x="576" y="-476"/>
+      <point x="528" y="-476" type="curve"/>
+      <point x="528" y="-668" type="line"/>
+      <point x="573" y="-665"/>
+      <point x="613" y="-653"/>
+      <point x="648" y="-632" type="curve" smooth="yes"/>
+      <point x="708" y="-597"/>
+      <point x="768" y="-524"/>
+      <point x="768" y="-380" type="curve" smooth="yes"/>
+      <point x="768" y="-92" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

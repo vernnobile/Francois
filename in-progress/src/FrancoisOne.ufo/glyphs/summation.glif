@@ -4,4 +4,11 @@
   <unicode hex="2211"/>
   <outline>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>
