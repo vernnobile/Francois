@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="1">
+  <advance width="741"/>
+  <unicode hex="030C"/>
+  <outline>
+    <contour>
+      <point x="34.5" y="1728" type="line"/>
+      <point x="274.5" y="1248" type="line"/>
+      <point x="476.5" y="1248" type="line"/>
+      <point x="706.5" y="1728" type="line"/>
+      <point x="456.5" y="1728" type="line"/>
+      <point x="360.5" y="1438" type="line"/>
+      <point x="244.5" y="1728" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>1248</integer>
+	    <key>width</key>	    <integer>480</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
